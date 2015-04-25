@@ -1,0 +1,14 @@
+{
+  "name":"ChicagolandMcData",
+  "description":"Food choice data for Chicago",
+  "scripts":{},
+  "env":{
+    "GITHUB_USERNAME":{
+      "required":true
+    },
+    "OTHER_VAR":{
+      "required":true
+    }
+  },
+  "addons":[]
+}
